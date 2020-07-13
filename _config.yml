@@ -1,6 +1,6 @@
 # main text of home
 name: makogarei
-bio: No soy coreano ni soy japones. Yo soy desarraigado
+bio: No soy coreano ni soy japones.<br> Yo soy desarraigado
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: makogarei4
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: seiichiro0427
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: mygithub
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 kaggle: mylanyrd
-email: n.s.kkrol@gmail.com
+email: n.s.kkro@gmail.com
 
 authors:
   johndoe:

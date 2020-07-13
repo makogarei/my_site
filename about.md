@@ -4,43 +4,37 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>hello. No soy coreano ni soy japones. Yo soy desarraigado</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
+	<li>Java</li>
+	<li>Javascript</li>
 	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
 	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>MySQL</li>
+	<li>PostgreSQL</li>
+	<li>Docker</li>
+	<li>metabase</li>
+	<li>GCP</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+</ul>
+
+<h2>Competitions</h2>
+
+<ul>
+	<li><a href="https://www.kaggle.com/c/generative-dog-images">K:Generative Dog Images Solo Bronze🥉(65/927)</a></li>
+	<li><a href="https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification">K:Jigsaw Toxicity Classification Solo Bronze🥉(255/3165)</a></li>
+	<li><a href="https://www.kaggle.com/c/understanding_cloud_organization">K:Understanding Clouds Images Solo Bronze🥉(84/1538)</a></li>
+	<li><a href="https://www.kaggle.com/c/ashrae-energy-prediction">K:ASHRAE Solo Bronze🥉(211/3614)</a></li>
+	<li><a href="https://www.kaggle.com/c/tensorflow2-question-answering">K:TF2.0 QA Solo Bronze🥉(63/1233)</a></li>
+	<li><a href="https://www.kaggle.com/c/google-quest-challenge">K:Google QUEST Q&A Team Silver 🥈(52/1571)</a></li>
+	<li><a href="https://www.kaggle.com/c/liverpool-ion-switching">K:UofL-IonSwitching Solo Silver 🥈(108/2618)</a></li>
+	<li><a href="https://www.nishika.com/competitions/5/summary">N:日本絵画人物の顔分類に機械学習で挑戦！ Solo (8/141)</a></li>
 </ul>
